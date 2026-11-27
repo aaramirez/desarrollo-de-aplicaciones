@@ -9,14 +9,13 @@ Este repositorio solo tiene el sitio generado. El curso está en preparación: l
 | # | Capítulo |
 |---|---|
 | 01 | El ciclo de vida de una aplicación |
-| 02 | Lenguajes y paradigmas |
-| 03 | Requisitos e historias de usuario |
-| 04 | Metodologías: cascada, Scrum, Kanban y cómo estimar |
-| 05 | Código limpio, SOLID y refactorización |
-| 06 | Patrones de diseño: creacionales y estructurales |
-| 07 | Patrones de comportamiento e inyección de dependencias |
-| 08 | Manejo de errores: excepciones y el patrón Result |
-| 09 | Pruebas: de la pirámide a TDD |
-| 10 | Arquitectura como decisión: ADR, C4 y atributos de calidad |
-| 11 | Revisión de código y trabajo en equipo |
-| 12 | Programar con asistentes y agentes de IA |
+| 02 | Requisitos e historias de usuario |
+| 03 | Metodologías: cascada, Scrum, Kanban y cómo estimar |
+| 04 | Código limpio, SOLID y refactorización |
+| 05 | Patrones de diseño: creacionales y estructurales |
+| 06 | Patrones de comportamiento e inyección de dependencias |
+| 07 | Manejo de errores: excepciones y el patrón Result |
+| 08 | Pruebas: de la pirámide a TDD |
+| 09 | Arquitectura como decisión: ADR, C4 y atributos de calidad |
+| 10 | Revisión de código y trabajo en equipo |
+| 11 | Programar con asistentes y agentes de IA |
